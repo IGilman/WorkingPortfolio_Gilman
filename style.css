@@ -1,0 +1,57 @@
+/* Browser Resets */
+
+body{
+    margin: 0;
+}
+
+h1{
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
+
+h2{
+    margin: 0;
+}
+
+/* Global Styles */
+
+main{
+    display: flex;
+    background-color: lightgray;
+}
+
+
+/* Project Specific Styles */
+
+.main{
+    height: 600px;
+}
+
+.FreeConsult{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 3;
+    background-color: lightgreen;   
+    /* I CANT FIGURE OUT HOW TO CENTER THE CONTENT HORIZONTALLY */
+}
+
+.ContactSocial{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* WHY IS THE CONTACT ASIDE BOX NOT CENTERING? RELATIVE ISSUE? */
+.Contact{
+    background-color: white;
+}
+
+.Social{
+    background-color: lightblue;
+}
+
