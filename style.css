@@ -38,8 +38,6 @@ main{
     background-color: lightgreen;
     border-radius: 20px;
     margin: 50px;
-       
-    /* I CANT FIGURE OUT HOW TO CENTER THE CONTENT HORIZONTALLY */
 }
 
 .ContactSocial{
@@ -49,7 +47,6 @@ main{
     align-items: center;
 }
 
-/* WHY IS THE CONTACT ASIDE BOX NOT CENTERING? RELATIVE ISSUE? */
 .Contact{
     display: flex;
     flex-direction: column;
